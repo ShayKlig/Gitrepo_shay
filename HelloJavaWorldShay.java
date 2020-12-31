@@ -1,4 +1,4 @@
-public class Hello{
+public class HelloJavaWorldShay {
 
  public static void main(String[] args) {
 
